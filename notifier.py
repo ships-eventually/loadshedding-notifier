@@ -18,3 +18,4 @@ if __name__ == "__main__":
             print("schedule changed:", events[:2])  # TODO: telegram
             last = events
         time.sleep(900)
+# telegram coming soon
